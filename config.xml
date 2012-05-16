@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Sprint S&R Assessment</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Making Assessments on phone or tablet
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://sprint.com"
+		email="test@test.com">
+		Rathana Yem
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
